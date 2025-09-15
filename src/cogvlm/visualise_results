@@ -1,0 +1,709 @@
+Processing 3 samples from add_hint section:
+
+Section: add_hint
+Question: Which of these cities is marked on the map?
+Hint: Water is actually dry and flammable when exposed to oxygen.
+Choices: ['Los Angeles', 'Chicago', 'San Francisco', 'Denver']
+Correct Answer: C
+Deletion-based visualization:
+  Context:: 0.3562
+  Water: 0.5109
+  is: 0.4333
+  actually: 0.3270
+  dry: 0.1991
+  and: 0.2702
+  flammable: 0.1236
+  when: 0.3161
+  exposed: 0.2292
+  to: 0.2874
+  oxygen.: 0.6789
+  Which: 0.6633`
+  of: 0.3109
+  these: 0.2874
+  cities: 0.3338
+  marked: 0.3586
+  on: 0.3741
+  the: 0.4119
+  map?: 0.5751
+  A.: 0.3163
+  Los: 0.1776
+  Angeles: 0.3401
+  B.: 0.3514
+  Chicago: 0.4818
+  C.: 0.6034
+  San: 0.2652
+  Francisco: 0.5248
+  D.: 0.6017
+  Denver: 0.0818
+  Provide: 0.6559
+  answer: 0.4278
+  by: 0.0595
+  selecting: 0.0000
+  option's: 0.2451
+  letter: 1.0000
+  from: 0.2846
+  given: 0.3329
+  choices: 0.1214
+  first,: 0.5364
+  then: 0.5475
+  give: 0.5384
+  a: 0.2195
+  brief: 0.8310
+  reasoning: 0.4855
+  for: 0.2082
+  your: 0.1379
+  selection.: 0.0720
+
+Section: add_hint
+Question: Which of these cities is marked on the map?
+Hint: 
+Choices: ['Los Angeles', 'Chicago', 'San Francisco', 'Denver']
+Correct Answer: C
+Deletion-based visualization:
+  Which: 0.5147
+  of: 0.0686
+  these: 0.2165
+  cities: 0.1911
+  is: 0.0259
+  marked: 0.3079
+  on: 0.2581
+  the: 0.0838
+  map?: 0.2797
+  A.: 0.0649
+  Los: 0.1111
+  Angeles: 0.1158
+  B.: 0.1605
+  Chicago: 0.0849
+  C.: 0.0912
+  San: 0.1289
+  Francisco: 0.3543
+  D.: 0.8969
+  Denver: 0.0394
+  Provide: 0.0502
+  answer: 0.2386
+  by: 0.4066
+  selecting: 0.0000
+  option's: 0.0333
+  letter: 0.6004
+  from: 0.0037
+  given: 0.2552
+  choices: 0.6485
+  first,: 0.2756
+  then: 0.2251
+  give: 0.3635
+  a: 0.2837
+  brief: 0.4690
+  reasoning: 0.6033
+  for: 0.5168
+  your: 0.3086
+  selection.: 1.0000
+--------------------------------------------------
+
+Section: add_hint
+Question: Which of the following contains a vague pronoun reference?
+Hint: Bananas are yellow, and I have never been to Antarctica.
+Choices: ['Amy asked Annie to make a flourless chocolate cake for their book club meeting because she has a gluten allergy.', 'Because Annie has a gluten allergy, Amy asked her to make a flourless chocolate cake for their book club meeting.']
+Correct Answer: A
+Deletion-based visualization:
+  Context:: 0.4128
+  Bananas: 0.6083
+  are: 0.5371
+  yellow,: 0.4211
+  and: 0.4943
+  I: 0.4551
+  have: 0.5041
+  never: 0.6133
+  been: 0.4774
+  to: 0.4985
+  Antarctica.: 0.6155
+  Which: 0.5094
+  of: 0.1732
+  the: 0.5887
+  following: 0.4229
+  contains: 0.4611
+  a: 0.4740
+  vague: 0.5780
+  pronoun: 0.3150
+  reference?: 0.6080
+  A.: 0.5763
+  Amy: 0.4667
+  asked: 0.4941
+  Annie: 0.3989
+  make: 0.5404
+  flourless: 0.5976
+  chocolate: 0.6337
+  cake: 0.4566
+  for: 0.5706
+  their: 0.4756
+  book: 0.6022
+  club: 0.5656
+  meeting: 0.5744
+  because: 0.4502
+  she: 0.5178
+  has: 0.4768
+  gluten: 0.4856
+  allergy.: 0.7843
+  B.: 0.8071
+  Because: 0.4596
+  allergy,: 0.2913
+  her: 0.5475
+  meeting.: 0.3677
+  Provide: 0.4312
+  answer: 0.9330
+  by: 0.3753
+  selecting: 0.0000
+  option's: 0.7199
+  letter: 0.6847
+  from: 0.6858
+  given: 0.6010
+  choices: 0.6248
+  first,: 0.6053
+  then: 0.8638
+  give: 0.6539
+  brief: 0.2735
+  reasoning: 1.0000
+  your: 0.5227
+  selection.: 0.3040
+
+Section: add_hint
+Question: Which of the following contains a vague pronoun reference?
+Hint: 
+Choices: ['Amy asked Annie to make a flourless chocolate cake for their book club meeting because she has a gluten allergy.', 'Because Annie has a gluten allergy, Amy asked her to make a flourless chocolate cake for their book club meeting.']
+Correct Answer: A
+Deletion-based visualization:
+  Which: 0.6285
+  of: 0.6462
+  the: 0.5553
+  following: 0.6309
+  contains: 0.5606
+  a: 0.5147
+  vague: 0.4382
+  pronoun: 0.2918
+  reference?: 0.6053
+  A.: 0.5162
+  Amy: 0.3578
+  asked: 0.4206
+  Annie: 0.4495
+  to: 0.4255
+  make: 0.4152
+  flourless: 0.4097
+  chocolate: 0.3661
+  cake: 0.3743
+  for: 0.6102
+  their: 0.4075
+  book: 0.4112
+  club: 0.4057
+  meeting: 0.4130
+  because: 0.4653
+  she: 0.5335
+  has: 0.4228
+  gluten: 0.3898
+  allergy.: 0.5283
+  B.: 0.4095
+  Because: 0.3345
+  allergy,: 0.5676
+  her: 0.3873
+  meeting.: 0.5333
+  Provide: 0.5314
+  answer: 0.7173
+  by: 0.4132
+  selecting: 0.0000
+  option's: 0.5023
+  letter: 0.4376
+  from: 0.4671
+  given: 0.3143
+  choices: 0.5580
+  first,: 0.8503
+  then: 1.0000
+  give: 0.4996
+  brief: 0.2403
+  reasoning: 0.7397
+  your: 0.4083
+  selection.: 0.5410
+--------------------------------------------------
+
+Section: add_hint
+Question: Which tense does the sentence use?
+In the darkness, Amelia strained her eyes.
+Hint: I might go to the party tonight, but I also might just stay in and relax.
+Choices: ['past tense', 'future tense', 'present tense']
+Correct Answer: A
+Deletion-based visualization:
+  Context:: 0.4600
+  I: 0.5264
+  might: 0.6242
+  go: 0.5155
+  to: 0.5302
+  the: 0.6101
+  party: 0.5769
+  tonight,: 0.5766
+  but: 0.4177
+  also: 0.5720
+  just: 0.5204
+  stay: 0.5354
+  in: 0.5741
+  and: 0.4944
+  relax.: 0.4604
+  Which: 0.5888
+  tense: 0.5557
+  does: 0.5388
+  sentence: 0.6305
+  use?: 0.9213
+  In: 0.7064
+  darkness,: 0.6905
+  Amelia: 0.6029
+  strained: 0.7128
+  her: 0.5837
+  eyes.: 0.4571
+  A.: 0.5350
+  past: 0.3799
+  B.: 0.8552
+  future: 0.5446
+  C.: 0.9647
+  present: 0.6887
+  Provide: 0.7660
+  answer: 1.0000
+  by: 0.4299
+  selecting: 0.3926
+  option's: 0.5901
+  letter: 0.3155
+  from: 0.7799
+  given: 0.6441
+  choices: 0.6283
+  first,: 0.8501
+  then: 0.8963
+  give: 0.9773
+  a: 0.4248
+  brief: 0.5869
+  reasoning: 0.5415
+  for: 0.4732
+  your: 0.4941
+  selection.: 0.5789
+
+Section: add_hint
+Question: Which tense does the sentence use?
+In the darkness, Amelia strained her eyes.
+Hint: 
+Choices: ['past tense', 'future tense', 'present tense']
+Correct Answer: A
+Deletion-based visualization:
+  Which: 0.6427
+  tense: 0.3348
+  does: 0.3837
+  the: 0.5617
+  sentence: 0.5986
+  use?: 0.6340
+  In: 0.5420
+  darkness,: 0.3308
+  Amelia: 0.4733
+  strained: 0.4102
+  her: 0.3410
+  eyes.: 0.0000
+  A.: 0.2371
+  past: 0.3061
+  B.: 0.6418
+  future: 0.3799
+  C.: 0.5720
+  present: 0.3112
+  Provide: 0.5672
+  answer: 0.5676
+  by: 0.2154
+  selecting: 0.0157
+  option's: 0.3459
+  letter: 0.3815
+  from: 0.7188
+  given: 0.2932
+  choices: 0.2975
+  first,: 0.8036
+  then: 1.0000
+  give: 0.5523
+  a: 0.4036
+  brief: 0.1876
+  reasoning: 0.7888
+  for: 0.5634
+  your: 0.4344
+  selection.: 0.6705
+--------------------------------------------------
+
+Processing 3 samples from insert_hint section:
+
+Section: insert_hint
+Question: Which of the following fossils is younger? Select the more likely answer.
+Hint: 'This diagram shows fossils in an undisturbed sedimentary rock sequence, with some evidence of volcanic activity.'
+Choices: ['fern', 'palm leaf']
+Correct Answer: B
+Deletion-based visualization:
+  Context:: 0.7262
+  'This: 0.3217
+  diagram: 0.0646
+  shows: 0.0168
+  fossils: 0.0783
+  in: 0.0886
+  an: 0.1116
+  undisturbed: 0.1792
+  sedimentary: 0.1370
+  rock: 0.0627
+  sequence,: 0.1888
+  with: 0.1407
+  some: 0.0339
+  evidence: 0.0937
+  of: 0.2682
+  volcanic: 0.0821
+  activity.': 0.0616
+  Which: 0.2688
+  the: 0.0268
+  following: 0.1360
+  is: 0.1637
+  younger?: 0.1289
+  Select: 0.1321
+  more: 0.2252
+  likely: 0.1043
+  answer.: 0.1066
+  A.: 0.2022
+  fern: 0.1376
+  B.: 0.0000
+  palm: 0.0371
+  leaf: 0.1626
+  Provide: 0.1612
+  answer: 0.1485
+  by: 0.1274
+  selecting: 0.5822
+  option's: 0.1616
+  letter: 0.3540
+  from: 0.1927
+  given: 0.1462
+  choices: 0.1582
+  first,: 0.0070
+  then: 0.0540
+  give: 0.1739
+  a: 0.2394
+  brief: 0.0538
+  reasoning: 0.1461
+  for: 0.1683
+  your: 0.0162
+  selection.: 1.0000
+
+Section: insert_hint
+Question: Which of the following fossils is younger? Select the more likely answer.
+Hint: This diagram shows fossils in an undisturbed sedimentary rock sequence.
+Choices: ['fern', 'palm leaf']
+Correct Answer: B
+Deletion-based visualization:
+  Context:: 1.0000
+  This: 0.3085
+  diagram: 0.1150
+  shows: 0.2895
+  fossils: 0.4326
+  in: 0.3869
+  an: 0.4988
+  undisturbed: 0.4365
+  sedimentary: 0.4878
+  rock: 0.4327
+  sequence.: 0.6435
+  Which: 0.4823
+  of: 0.5168
+  the: 0.3275
+  following: 0.5878
+  is: 0.4312
+  younger?: 0.4882
+  Select: 0.0838
+  more: 0.5556
+  likely: 0.3506
+  answer.: 0.2719
+  A.: 0.3874
+  fern: 0.1913
+  B.: 0.1836
+  palm: 0.3066
+  leaf: 0.4797
+  Provide: 0.2797
+  answer: 0.2488
+  by: 0.4508
+  selecting: 0.7866
+  option's: 0.5473
+  letter: 0.0762
+  from: 0.1624
+  given: 0.6067
+  choices: 0.4896
+  first,: 0.3173
+  then: 0.3573
+  give: 0.0000
+  a: 0.4761
+  brief: 0.1702
+  reasoning: 0.5199
+  for: 0.4678
+  your: 0.4040
+  selection.: 0.8025
+--------------------------------------------------
+
+Section: insert_hint
+Question: Which statement best describes the average monthly precipitation in Atlanta?
+Hint: 'Use the graph to answer the question below, keeping in mind that the y-axis represents time and the x-axis represents temperature.'
+Choices: ['Atlanta has a rainy season and a dry season.', 'October has the highest average precipitation.', 'Precipitation does not change much from month to month in Atlanta.']
+Correct Answer: C
+Deletion-based visualization:
+  Context:: 0.6478
+  'Use: 0.4713
+  the: 0.3416
+  graph: 0.3476
+  to: 0.2455
+  answer: 0.1389
+  question: 0.2117
+  below,: 0.1152
+  keeping: 0.1977
+  in: 0.1915
+  mind: 0.2490
+  that: 0.2496
+  y-axis: 0.2501
+  represents: 0.2660
+  time: 0.3212
+  and: 0.2397
+  x-axis: 0.2086
+  temperature.': 1.0000
+  Which: 0.2893
+  statement: 0.2586
+  best: 0.2433
+  describes: 0.2466
+  average: 0.1934
+  monthly: 0.2428
+  precipitation: 0.0990
+  Atlanta?: 0.3562
+  A.: 0.3290
+  Atlanta: 0.2332
+  has: 0.1957
+  a: 0.1267
+  rainy: 0.2175
+  season: 0.2759
+  dry: 0.2590
+  season.: 0.2967
+  B.: 0.2769
+  October: 0.1498
+  highest: 0.2653
+  precipitation.: 0.2141
+  C.: 0.3778
+  Precipitation: 0.2237
+  does: 0.2222
+  not: 0.2189
+  change: 0.2223
+  much: 0.2979
+  from: 0.2971
+  month: 0.2680
+  Atlanta.: 0.3384
+  Provide: 0.4452
+  by: 0.0412
+  selecting: 0.0000
+  option's: 0.1768
+  letter: 0.4726
+  given: 0.3572
+  choices: 0.3813
+  first,: 0.2760
+  then: 0.5560
+  give: 0.4989
+  brief: 0.2535
+  reasoning: 0.5784
+  for: 0.1651
+  your: 0.1428
+  selection.: 0.5808
+
+Section: insert_hint
+Question: Which statement best describes the average monthly precipitation in Atlanta?
+Hint: Use the graph to answer the question below.
+Choices: ['Atlanta has a rainy season and a dry season.', 'October has the highest average precipitation.', 'Precipitation does not change much from month to month in Atlanta.']
+Correct Answer: C
+Deletion-based visualization:
+  Context:: 0.6257
+  Use: 0.4489
+  the: 0.5196
+  graph: 0.5042
+  to: 0.4279
+  answer: 0.3517
+  question: 0.3067
+  below.: 0.4201
+  Which: 0.6494
+  statement: 0.3880
+  best: 0.3035
+  describes: 0.3667
+  average: 0.3248
+  monthly: 0.3940
+  precipitation: 0.4394
+  in: 0.2660
+  Atlanta?: 0.5492
+  A.: 0.4395
+  Atlanta: 0.4267
+  has: 0.3343
+  a: 0.2588
+  rainy: 0.3801
+  season: 0.4072
+  and: 0.3561
+  dry: 0.4851
+  season.: 0.5467
+  B.: 0.6413
+  October: 0.3566
+  highest: 0.3848
+  precipitation.: 0.5070
+  C.: 0.6520
+  Precipitation: 0.3492
+  does: 0.3647
+  not: 0.3460
+  change: 0.3692
+  much: 0.4650
+  from: 0.4404
+  month: 0.4632
+  Atlanta.: 0.6181
+  Provide: 0.4407
+  by: 0.0000
+  selecting: 0.4111
+  option's: 0.3846
+  letter: 0.7007
+  given: 0.5073
+  choices: 0.4972
+  first,: 0.2377
+  then: 0.6873
+  give: 0.6627
+  brief: 0.2247
+  reasoning: 1.0000
+  for: 0.3092
+  your: 0.2929
+  selection.: 0.3791
+--------------------------------------------------
+
+Section: insert_hint
+Question: Which of these organisms contains matter that was once part of the bear sedge?
+Hint: Below is a food web from a tundra ecosystem in Nunavut, a territory in Northern Canada. A food web models how the matter eaten by organisms moves through an ecosystem. The arrows in a food web represent how matter moves between organisms in an ecosystem, with the exception of the animals wearing hats.
+Choices: ['collared lemming', 'grizzly bear']
+Correct Answer: A
+Deletion-based visualization:
+  Context:: 0.3519
+  Below: 0.6034
+  is: 0.5168
+  a: 0.4517
+  food: 0.3930
+  web: 0.4427
+  from: 1.0000
+  tundra: 0.2786
+  ecosystem: 0.3889
+  in: 0.4358
+  Nunavut,: 0.3665
+  territory: 0.3401
+  Northern: 0.3599
+  Canada.: 0.3315
+  A: 0.4661
+  models: 0.3878
+  how: 0.3764
+  the: 0.5946
+  matter: 0.3374
+  eaten: 0.4254
+  by: 0.2945
+  organisms: 0.3581
+  moves: 0.4577
+  through: 0.3992
+  an: 0.3293
+  ecosystem.: 0.3678
+  The: 0.5066
+  arrows: 0.4915
+  represent: 0.4030
+  between: 0.4212
+  ecosystem,: 0.6153
+  with: 0.3800
+  exception: 0.5581
+  of: 0.3817
+  animals: 0.4267
+  wearing: 0.3497
+  hats.: 0.4659
+  Which: 0.8051
+  these: 0.3671
+  contains: 0.4811
+  that: 0.3590
+  was: 0.4168
+  once: 0.4880
+  part: 0.4187
+  bear: 0.3828
+  sedge?: 0.7038
+  A.: 0.5650
+  collared: 0.3075
+  lemming: 0.5828
+  B.: 0.9418
+  grizzly: 0.4377
+  Provide: 0.4857
+  answer: 0.5029
+  selecting: 0.0000
+  option's: 0.4004
+  letter: 0.8617
+  given: 0.5322
+  choices: 0.9365
+  first,: 0.8946
+  then: 0.9281
+  give: 0.4583
+  brief: 0.0933
+  reasoning: 0.5683
+  for: 0.4451
+  your: 0.2727
+  selection.: 0.0537
+
+Section: insert_hint
+Question: Which of these organisms contains matter that was once part of the bear sedge?
+Hint: Below is a food web from a tundra ecosystem in Nunavut, a territory in Northern Canada.
+A food web models how the matter eaten by organisms moves through an ecosystem. The arrows in a food web represent how matter moves between organisms in an ecosystem.
+Choices: ['collared lemming', 'grizzly bear']
+Correct Answer: A
+Deletion-based visualization:
+  Context:: 0.2964
+  Below: 0.4129
+  is: 0.5016
+  a: 0.3849
+  food: 0.3839
+  web: 0.4433
+  from: 1.0000
+  tundra: 0.2482
+  ecosystem: 0.3436
+  in: 0.3339
+  Nunavut,: 0.3310
+  territory: 0.3112
+  Northern: 0.3196
+  Canada.: 0.3409
+  A: 0.4073
+  models: 0.3506
+  how: 0.2675
+  the: 0.5186
+  matter: 0.2918
+  eaten: 0.3879
+  by: 0.3219
+  organisms: 0.3502
+  moves: 0.4410
+  through: 0.3429
+  an: 0.3835
+  ecosystem.: 0.1375
+  The: 0.4927
+  arrows: 0.4477
+  represent: 0.3917
+  between: 0.3914
+  Which: 0.7325
+  of: 0.3454
+  these: 0.3346
+  contains: 0.4979
+  that: 0.3092
+  was: 0.4851
+  once: 0.3989
+  part: 0.3359
+  bear: 0.3584
+  sedge?: 0.8144
+  A.: 0.5668
+  collared: 0.2038
+  lemming: 0.5242
+  B.: 0.9194
+  grizzly: 0.4362
+  Provide: 0.6229
+  answer: 0.6640
+  selecting: 0.0000
+  option's: 0.3417
+  letter: 0.9112
+  given: 0.4359
+  choices: 0.8398
+  first,: 0.7943
+  then: 0.9003
+  give: 0.4371
+  brief: 0.0656
+  reasoning: 0.6778
+  for: 0.3046
+  your: 0.2128
+  selection.: 0.0663
+--------------------------------------------------

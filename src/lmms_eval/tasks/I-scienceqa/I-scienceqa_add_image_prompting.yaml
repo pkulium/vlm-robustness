@@ -1,0 +1,39 @@
+dataset_path: pkulium/I-ScienceQA
+dataset_name: add_image
+task: "I-ScienceQA_add_image_prompting"
+dataset_kwargs:
+  token: True
+test_split: test
+output_type: generate_until
+doc_to_visual: !function utils.sqa_doc_to_visual
+doc_to_text: !function utils.sqa_doc_to_text
+doc_to_target: !function utils.sqa_doc_to_target
+generation_kwargs:
+  max_new_tokens: 128
+  temperature: 0
+  do_sample: False
+metric_list:
+  - metric: exact_match
+    aggregation: mean
+    higher_is_better: true
+    ignore_case: true
+    ignore_punctuation: true
+process_results: !function utils.sqa_process_results
+metadata:
+  - version: 0.0
+
+lmms_eval_specific_kwargs:
+  default:
+    format: default
+    pre_prompt: ""
+    post_prompt: "\n- Carefully read and focus on the main question.\n- Disregard any distracting elements in the image and ignore irrelevant textual hints.\n- Select the correct answer by providing the option's letter from the given choices first.\n- Then, provide a brief reasoning for your selection.\n- Remeber, begin your answer with a single letter from the given choices first."  
+  qwen_vl:
+    format: qwen_vl
+  idefics2:
+    format: default
+    pre_prompt: ""
+    post_prompt: "\nAnswer:"
+model_specific_generation_kwargs:
+  llava:
+    image_aspect_ratio: original
+  

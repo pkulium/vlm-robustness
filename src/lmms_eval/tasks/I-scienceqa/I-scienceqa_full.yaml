@@ -1,0 +1,13 @@
+group: I-scienceqa_full
+task:
+  - I-scienceqa_add_image
+  - I_scienceqa_add_hint
+  - I-scienceqa_insert_hint
+  - I-scienceqa_insert_image
+  - I-scienceqa_add_hint_original
+  - I-scienceqa_add_image_original
+  - I-scienceqa_insert_hint_original
+  - I-scienceqa_add_image_prompting
+  - I_scienceqa_add_hint_prompting
+  - I-scienceqa_insert_hint_prompting
+  - I-scienceqa_insert_image_prompting
