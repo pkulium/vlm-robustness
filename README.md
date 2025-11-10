@@ -1,4 +1,4 @@
-# On the Robustness of Multimodal Language Models Towards Distractions
+# [AAAI 2026] On the Robustness of Multimodal Language Models Towards Distractions
 
 This repository contains the official implementation of the paper ["On the robustness of multimodal language model towards distractions"](https://arxiv.org/abs/2502.09818).
 
